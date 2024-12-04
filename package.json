@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "bootstrap-vue": "^2.5.0",
     "downloadjs": "^1.4.7",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-file-download": "^0.4.10",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
